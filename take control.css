@@ -1,0 +1,176 @@
+.overlay-word {
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(1614%, -410%);
+    background-color: black;
+    color: white;
+    padding: 2px;
+    font-size: 20px;
+    text-align: center;
+}
+.overlay-word {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-440%, -411%);
+    background-color: black;
+    color: white;
+    padding: 2px;
+    font-size: 20px;
+    text-align: center;
+}
+.night {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-222%, -324%);
+    background-color: black;
+    color: white;
+    padding: 2px;
+    font-size: 20px;
+    text-align: center;
+    height: 41px;
+}
+.down-arrow {
+    width: 0;
+    height: 0;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-top: 10px solid white;
+}
+.clouds {
+    background-color: blue;
+}
+.can {
+    background-color: #bc00bc;
+}
+.us {
+    background-color: blue;
+}
+.them {
+    background-color: silver;
+    flex-grow: 100px;
+}
+.my-element {
+    width: 204px;
+    height: 50px;
+    background-color: blue;
+    color: lightblue;
+    text-align: center;
+    line-height: 50px; /* Vertically center text */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Initial subtle shadow */
+    transition: background-color 0.3s ease; /* Smooth transition */
+}
+
+.my-element:hover {
+    background-color: red;
+    color: lightblue;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Larger, more prominent shadow on hover */
+    cursor: pointer; /* Change cursor on hover */
+}
+.my-power {
+    width: 204px;
+    height: 50px;
+    background-color: blue;
+    color: lightblue;
+    text-align: center;
+    line-height: 50px; /* Vertically center text */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Initial subtle shadow */
+    transition: background-color 0.3s ease; /* Smooth transition */
+}
+
+.my-power:hover {
+    background-color: red;
+    color: lightblue;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Larger, more prominent shadow on hover */
+    cursor: pointer; /* Change cursor on hover */
+}
+.white {
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    border: solid;
+}
+.black {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    border: solid;
+}
+.yellow {
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    border: solid;
+}
+.red {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    border: solid;
+}
+.blue {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    border: solid;
+}
+.green {
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    border: solid;
+}
+.dream {
+    display: flex;
+    width: 50px;
+    height: 175px;
+    border: solid;
+}
+.sim {
+    display: flex;
+    width: 50px;
+    height: 175px;
+    border: solid;
+}
+.gab {
+    display: flex;
+    width: 50px;
+    height: 175px;
+    border: solid;
+}
+.jam {
+    display: flex;
+    width: 50px;
+    height: 175px;
+    border:solid;
+}
+.ham {
+    display: flex;
+    width: 50px;
+    height: 175px;
+    border: solid;
+}
+.bless {
+    display: flex;
+    width: 50px;
+    height: 175px;
+    border: solid
+}
+.james {
+    display: flex;
+    width: 50px;
+    height: 175px;
+    border: solid
+}
+.man {
+    display: flex;
+    width: 50px;
+    height: 175px;
+    border: solid
+}
+.gold-star {
+    color: gold; /* Sets the color to gold */
+    font-size: 2em; /* Makes the star twice the default font size */
+}
